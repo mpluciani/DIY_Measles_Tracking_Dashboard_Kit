@@ -1,4 +1,7 @@
 matplotlib
+numpy
 pandas
-uk_covid19
+ipywidgets
+requests
 voila
+ipykernel

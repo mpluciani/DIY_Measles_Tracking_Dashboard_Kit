@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "date": "2023-09-25",
+      "cases": 1.0
+    },
+    {
+      "date": "2023-10-02",
+      "cases": 4.0
+    },
+    {
+      "date": "2023-10-09",
+      "cases": 3.0
+    },
+    {
+      "date": "2023-10-16",
+      "cases": 5.0
+    },
+    {
+      "date": "2023-10-23",
+      "cases": 4.0
+    },
+    {
+      "date": "2023-10-30",
+      "cases": 6.0
+    },
+    {
+      "date": "2023-11-06",
+      "cases": 10.0
+    },
+    {
+      "date": "2023-11-13",
+      "cases": 9.0
+    },
+    {
+      "date": "2023-11-20",
+      "cases": 10.0
+    },
+    {
+      "date": "2023-11-27",
+      "cases": 12.0
+    },
+    {
+      "date": "2023-12-04",
+      "cases": 16.0
+    },
+    {
+      "date": "2023-12-11",
+      "cases": 26.0
+    },
+    {
+      "date": "2023-12-18",
+      "cases": 54.0
+    },
+    {
+      "date": "2023-12-25",
+      "cases": 58.0
+    },
+    {
+      "date": "2024-01-01",
+      "cases": 74.0,
+      "cases_excluding_reporting_lag": 74.0
+    },
+    {
+      "date": "2024-01-08",
+      "cases": 65.0,
+      "cases_excluding_reporting_lag": 65.0
+    },
+    {
+      "date": "2024-01-15",
+      "cases": 53.0,
+      "cases_excluding_reporting_lag": 53.0
+    },
+    {
+      "date": "2024-01-22",
+      "cases": 65.0,
+      "cases_excluding_reporting_lag": 65.0
+    },
+    {
+      "date": "2024-01-29",
+      "cases": 70.0,
+      "cases_excluding_reporting_lag": 70.0
+    },
+    {
+      "date": "2024-02-05",
+      "cases": 70.0,
+      "cases_excluding_reporting_lag": 70.0
+    },
+    {
+      "date": "2024-02-12",
+      "cases": 71.0,
+      "cases_excluding_reporting_lag": 71.0
+    },
+    {
+      "date": "2024-02-19",
+      "cases": 58.0,
+      "cases_excluding_reporting_lag": 58.0
+    },
+    {
+      "date": "2024-02-26",
+      "cases": 78.0,
+      "cases_excluding_reporting_lag": 78.0
+    },
+    {
+      "date": "2024-03-04",
+      "cases": 58.0,
+      "cases_excluding_reporting_lag": 58.0
+    },
+    {
+      "date": "2024-03-11",
+      "cases": 88.0,
+      "cases_excluding_reporting_lag": 88.0
+    },
+    {
+      "date": "2024-03-18",
+      "cases": 77.0,
+      "cases_excluding_reporting_lag": 77.0
+    },
+    {
+      "date": "2024-03-25",
+      "cases": 72.0,
+      "cases_excluding_reporting_lag": 72.0
+    },
+    {
+      "date": "2024-04-01",
+      "cases": 90.0,
+      "cases_excluding_reporting_lag": 90.0
+    },
+    {
+      "date": "2024-04-08",
+      "cases": 106.0,
+      "cases_excluding_reporting_lag": 106.0
+    },
+    {
+      "date": "2024-04-15",
+      "cases": 84.0,
+      "cases_excluding_reporting_lag": 84.0
+    },
+    {
+      "date": "2024-04-22",
+      "cases": 82.0,
+      "cases_excluding_reporting_lag": 82.0
+    },
+    {
+      "date": "2024-04-29",
+      "cases": 81.0,
+      "cases_excluding_reporting_lag": 81.0
+    },
+    {
+      "date": "2024-05-06",
+      "cases": 87.0,
+      "cases_excluding_reporting_lag": 87.0
+    },
+    {
+      "date": "2024-05-13",
+      "cases": 104.0,
+      "cases_excluding_reporting_lag": 104.0
+    },
+    {
+      "date": "2024-05-20",
+      "cases": 97.0,
+      "cases_excluding_reporting_lag": 97.0
+    },
+    {
+      "date": "2024-05-27",
+      "cases": 71.0,
+      "cases_excluding_reporting_lag": 71.0
+    },
+    {
+      "date": "2024-06-03",
+      "cases": 77.0,
+      "cases_excluding_reporting_lag": 77.0
+    },
+    {
+      "date": "2024-06-10",
+      "cases": 58.0,
+      "cases_excluding_reporting_lag": 58.0
+    },
+    {
+      "date": "2024-06-17",
+      "cases": 80.0,
+      "cases_excluding_reporting_lag": 80.0
+    },
+    {
+      "date": "2024-06-24",
+      "cases": 73.0,
+      "cases_excluding_reporting_lag": 73.0
+    },
+    {
+      "date": "2024-07-01",
+      "cases": 77.0,
+      "cases_excluding_reporting_lag": 77.0
+    },
+    {
+      "date": "2024-07-08",
+      "cases": 87.0,
+      "cases_excluding_reporting_lag": 87.0
+    },
+    {
+      "date": "2024-07-15",
+      "cases": 84.0,
+      "cases_excluding_reporting_lag": 84.0
+    },
+    {
+      "date": "2024-07-22",
+      "cases": 60.0,
+      "cases_excluding_reporting_lag": 60.0
+    },
+    {
+      "date": "2024-07-29",
+      "cases": 67.0,
+      "cases_excluding_reporting_lag": 67.0
+    },
+    {
+      "date": "2024-08-05",
+      "cases": 52.0,
+      "cases_excluding_reporting_lag": 52.0
+    },
+    {
+      "date": "2024-08-12",
+      "cases": 40.0,
+      "cases_excluding_reporting_lag": 40.0
+    },
+    {
+      "date": "2024-08-19",
+      "cases": 32.0,
+      "cases_excluding_reporting_lag": 32.0
+    },
+    {
+      "date": "2024-08-26",
+      "cases": 23.0,
+      "cases_excluding_reporting_lag": 23.0
+    },
+    {
+      "date": "2024-09-02",
+      "cases": 28.0,
+      "cases_excluding_reporting_lag": 28.0
+    },
+    {
+      "date": "2024-09-09",
+      "cases": 23.0,
+      "cases_excluding_reporting_lag": 23.0
+    },
+    {
+      "date": "2024-09-16",
+      "cases": 23.0,
+      "cases_excluding_reporting_lag": 23.0
+    },
+    {
+      "date": "2024-09-23",
+      "cases": 14.0,
+      "cases_excluding_reporting_lag": 14.0
+    },
+    {
+      "date": "2024-09-30",
+      "cases": 17.0,
+      "cases_excluding_reporting_lag": 17.0
+    },
+    {
+      "date": "2024-10-07",
+      "cases": 14.0,
+      "cases_excluding_reporting_lag": 14.0
+    },
+    {
+      "date": "2024-10-14",
+      "cases": 12.0,
+      "cases_excluding_reporting_lag": 12.0
+    },
+    {
+      "date": "2024-10-21",
+      "cases": 27.0,
+      "cases_excluding_reporting_lag": 27.0
+    },
+    {
+      "date": "2024-10-28",
+      "cases": 18.0,
+      "cases_excluding_reporting_lag": 18.0
+    },
+    {
+      "date": "2024-11-04",
+      "cases": 34.0,
+      "cases_excluding_reporting_lag": 34.0
+    },
+    {
+      "date": "2024-11-11",
+      "cases": 28.0,
+      "cases_excluding_reporting_lag": 28.0
+    },
+    {
+      "date": "2024-11-18",
+      "cases": 29.0,
+      "cases_excluding_reporting_lag": 29.0
+    },
+    {
+      "date": "2024-11-25",
+      "cases": 29.0,
+      "cases_excluding_reporting_lag": 29.0
+    },
+    {
+      "date": "2024-12-02",
+      "cases": 33.0,
+      "cases_excluding_reporting_lag": 33.0
+    },
+    {
+      "date": "2024-12-09",
+      "cases": 26.0,
+      "cases_excluding_reporting_lag": 26.0
+    },
+    {
+      "date": "2024-12-16",
+      "cases": 22.0,
+      "cases_excluding_reporting_lag": 22.0
+    },
+    {
+      "date": "2024-12-23",
+      "cases": 16.0,
+      "cases_excluding_reporting_lag": 16.0
+    },
+    {
+      "date": "2024-12-30",
+      "cases": 22.0,
+      "cases_excluding_reporting_lag": 22.0
+    },
+    {
+      "date": "2025-01-06",
+      "cases": 19.0,
+      "cases_excluding_reporting_lag": 19.0
+    },
+    {
+      "date": "2025-01-13",
+      "cases": 22.0,
+      "cases_excluding_reporting_lag": 22.0
+    },
+    {
+      "date": "2025-01-20",
+      "cases": 24.0,
+      "cases_excluding_reporting_lag": 24.0
+    },
+    {
+      "date": "2025-01-27",
+      "cases": 14.0,
+      "cases_excluding_reporting_lag": 14.0
+    },
+    {
+      "date": "2025-02-03",
+      "cases": 17.0,
+      "cases_excluding_reporting_lag": 17.0
+    },
+    {
+      "date": "2025-02-10",
+      "cases": 17.0,
+      "cases_excluding_reporting_lag": 17.0
+    },
+    {
+      "date": "2025-02-17",
+      "cases": 16.0,
+      "cases_excluding_reporting_lag": 16.0
+    },
+    {
+      "date": "2025-02-24",
+      "cases": 18.0,
+      "cases_excluding_reporting_lag": 18.0
+    },
+    {
+      "date": "2025-03-03",
+      "cases": 17.0,
+      "cases_excluding_reporting_lag": 17.0
+    },
+    {
+      "date": "2025-03-10",
+      "cases": 12.0,
+      "cases_excluding_reporting_lag": 12.0
+    },
+    {
+      "date": "2025-03-17",
+      "cases": 16.0,
+      "cases_excluding_reporting_lag": 16.0
+    },
+    {
+      "date": "2025-03-24",
+      "cases": 14.0,
+      "cases_excluding_reporting_lag": 14.0
+    },
+    {
+      "date": "2025-03-31",
+      "cases": 24.0,
+      "cases_excluding_reporting_lag": 24.0
+    },
+    {
+      "date": "2025-04-07",
+      "cases": 26.0,
+      "cases_excluding_reporting_lag": 26.0
+    },
+    {
+      "date": "2025-04-14",
+      "cases": 32.0,
+      "cases_excluding_reporting_lag": 32.0
+    },
+    {
+      "date": "2025-04-21",
+      "cases": 19.0,
+      "cases_excluding_reporting_lag": 19.0
+    },
+    {
+      "date": "2025-04-28",
+      "cases": 26.0,
+      "cases_excluding_reporting_lag": 26.0
+    },
+    {
+      "date": "2025-05-05",
+      "cases": 26.0,
+      "cases_excluding_reporting_lag": 26.0
+    },
+    {
+      "date": "2025-05-12",
+      "cases": 25.0,
+      "cases_excluding_reporting_lag": 25.0
+    },
+    {
+      "date": "2025-05-19",
+      "cases": 32.0,
+      "cases_excluding_reporting_lag": 32.0
+    },
+    {
+      "date": "2025-05-26",
+      "cases": 34.0,
+      "cases_excluding_reporting_lag": 34.0
+    },
+    {
+      "date": "2025-06-02",
+      "cases": 32.0,
+      "cases_excluding_reporting_lag": 32.0
+    },
+    {
+      "date": "2025-06-09",
+      "cases": 30.0,
+      "cases_excluding_reporting_lag": 30.0
+    },
+    {
+      "date": "2025-06-16",
+      "cases": 24.0,
+      "cases_excluding_reporting_lag": 24.0
+    },
+    {
+      "date": "2025-06-23",
+      "cases": 31.0,
+      "cases_excluding_reporting_lag": 31.0
+    },
+    {
+      "date": "2025-06-30",
+      "cases": 34.0,
+      "cases_excluding_reporting_lag": 34.0
+    },
+    {
+      "date": "2025-07-07",
+      "cases": 29.0,
+      "cases_excluding_reporting_lag": 29.0
+    },
+    {
+      "date": "2025-07-14",
+      "cases": 39.0,
+      "cases_excluding_reporting_lag": 39.0
+    },
+    {
+      "date": "2025-07-21",
+      "cases": 15.0,
+      "cases_excluding_reporting_lag": 15.0
+    },
+    {
+      "date": "2025-07-28",
+      "cases": 18.0,
+      "cases_excluding_reporting_lag": 18.0
+    },
+    {
+      "date": "2025-08-04",
+      "cases": 17.0,
+      "cases_excluding_reporting_lag": 17.0
+    },
+    {
+      "date": "2025-08-11",
+      "cases": 15.0,
+      "cases_excluding_reporting_lag": 15.0
+    },
+    {
+      "date": "2025-08-18",
+      "cases": 4.0,
+      "cases_excluding_reporting_lag": 4.0
+    },
+    {
+      "date": "2025-08-25",
+      "cases": 7.0,
+      "cases_excluding_reporting_lag": 7.0
+    },
+    {
+      "date": "2025-09-01",
+      "cases": 6.0,
+      "cases_excluding_reporting_lag": 6.0
+    },
+    {
+      "date": "2025-09-08",
+      "cases": 7.0,
+      "cases_excluding_reporting_lag": 7.0
+    },
+    {
+      "date": "2025-09-15",
+      "cases": 9.0,
+      "cases_excluding_reporting_lag": 9.0
+    },
+    {
+      "date": "2025-09-22",
+      "cases": 6.0,
+      "cases_excluding_reporting_lag": 6.0
+    },
+    {
+      "date": "2025-09-29",
+      "cases": 8.0,
+      "cases_excluding_reporting_lag": 8.0
+    },
+    {
+      "date": "2025-10-06",
+      "cases": 15.0,
+      "cases_excluding_reporting_lag": 15.0
+    },
+    {
+      "date": "2025-10-13",
+      "cases": 7.0,
+      "cases_excluding_reporting_lag": 7.0
+    },
+    {
+      "date": "2025-10-20",
+      "cases": 12.0,
+      "cases_excluding_reporting_lag": 12.0
+    },
+    {
+      "date": "2025-10-27",
+      "cases": 8.0,
+      "cases_excluding_reporting_lag": 8.0
+    },
+    {
+      "date": "2025-11-03",
+      "cases": 12.0,
+      "cases_excluding_reporting_lag": 12.0
+    },
+    {
+      "date": "2025-11-10",
+      "cases": 17.0,
+      "cases_excluding_reporting_lag": 17.0
+    },
+    {
+      "date": "2025-11-17",
+      "cases": 19.0,
+      "cases_excluding_reporting_lag": 19.0
+    },
+    {
+      "date": "2025-11-24",
+      "cases": 14.0,
+      "cases_excluding_reporting_lag": 14.0
+    },
+    {
+      "date": "2025-12-01",
+      "cases": 20.0,
+      "cases_excluding_reporting_lag": 20.0
+    },
+    {
+      "date": "2025-12-08",
+      "cases": 13.0,
+      "cases_excluding_reporting_lag": 13.0
+    },
+    {
+      "date": "2025-12-15",
+      "cases": 11.0,
+      "cases_excluding_reporting_lag": 11.0
+    },
+    {
+      "date": "2025-12-22",
+      "cases": 12.0,
+      "cases_excluding_reporting_lag": 12.0
+    },
+    {
+      "date": "2025-12-29",
+      "cases": 12.0,
+      "cases_excluding_reporting_lag": 12.0
+    },
+    {
+      "date": "2026-01-05",
+      "cases": 8.0,
+      "cases_excluding_reporting_lag": 8.0
+    },
+    {
+      "date": "2026-01-12",
+      "cases": 30.0,
+      "cases_excluding_reporting_lag": 30.0
+    },
+    {
+      "date": "2026-01-19",
+      "cases": 30.0,
+      "cases_excluding_reporting_lag": 30.0
+    },
+    {
+      "date": "2026-01-26",
+      "cases": 32.0,
+      "cases_excluding_reporting_lag": 31.0
+    },
+    {
+      "date": "2026-02-02",
+      "cases": 17.0,
+      "cases_excluding_reporting_lag": 20.0
+    },
+    {
+      "date": "2026-02-09",
+      "cases": 36.0
+    },
+    {
+      "date": "2026-02-16",
+      "cases": 23.0
+    },
+    {
+      "date": "2026-02-23",
+      "cases": 10.0
+    }
+  ],
+  "generated_at": "2026-03-18T22:10:59.552634Z",
+  "metadata": {
+    "sources": {
+      "cases": {
+        "url": "https://api.ukhsa-dashboard.data.gov.uk/themes/infectious_disease/sub_themes/vaccine_preventable/topics/Measles/geography_types/Nation/geographies/England/metrics/measles_cases_casesByOnsetWeek?format=json&age=all&sex=all&stratum=default&page_size=500",
+        "count": 240
+      },
+      "cases_excluding_reporting_lag": {
+        "url": "https://api.ukhsa-dashboard.data.gov.uk/themes/infectious_disease/sub_themes/vaccine_preventable/topics/Measles/geography_types/Nation/geographies/England/metrics/measles_cases_casesByOnsetWeekExcludingReportingLag?format=json&age=all&sex=all&stratum=default&page_size=500",
+        "count": 110
+      }
+    }
+  }
+}
