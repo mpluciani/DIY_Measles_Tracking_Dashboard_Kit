@@ -2,6 +2,13 @@
 
 This project helps you explore UKHSA measles data in a simple, interactive dashboard.
 
+## Live Dashboard
+
+- Direct Binder dashboard link:
+  - https://mybinder.org/v2/gh/mpluciani/DIY_Measles_Tracking_Dashboard_Kit/HEAD?urlpath=%2Fvoila%2Frender%2FDashboard.ipynb
+- Binder home page:
+  - https://mybinder.org/v2/gh/mpluciani/DIY_Measles_Tracking_Dashboard_Kit/HEAD
+
 It uses:
 - `ipywidgets` for controls
 - `Voila` to turn the notebook into a dashboard
@@ -29,17 +36,15 @@ The dashboard includes:
 
 ## Shareable Binder Website
 
-After pushing this repo to GitHub, share this Binder dashboard link:
+Share this direct dashboard URL:
 
-`https://mybinder.org/v2/gh/<your-github-username>/<your-repo-name>/HEAD?urlpath=%2Fvoila%2Frender%2FDashboard.ipynb`
+`https://mybinder.org/v2/gh/mpluciani/DIY_Measles_Tracking_Dashboard_Kit/HEAD?urlpath=%2Fvoila%2Frender%2FDashboard.ipynb`
 
-Example format:
-- Replace `<your-github-username>` and `<your-repo-name>` with your real repo path.
-- Keep `%2Fvoila%2Frender%2FDashboard.ipynb` exactly as written.
+Share this Binder home page URL:
 
-Optional Binder home page (without opening Voila directly):
+`https://mybinder.org/v2/gh/mpluciani/DIY_Measles_Tracking_Dashboard_Kit/HEAD`
 
-`https://mybinder.org/v2/gh/<your-github-username>/<your-repo-name>/HEAD`
+Note: first launch can take a few minutes while Binder builds the environment.
 
 ## Dataset Configuration
 
